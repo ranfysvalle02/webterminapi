@@ -1,5 +1,7 @@
 # webterminapi
 
+![](https://help.apple.com/assets/65DFB7A79DFEC61A7A0517AC/65DFB7A793CD15C0410BA37D/en_US/7f288e73064fb1012bfa617b6b707e2c.png)
+
 ---
 
 # Building an Interactive Web-Based Terminal
