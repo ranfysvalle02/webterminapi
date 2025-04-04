@@ -2,7 +2,7 @@
 
 ---
 
-# Building an Interactive Web-Based Terminal with Node.js, WebSockets, and xterm.js  
+# Building an Interactive Web-Based Terminal
    
 In the evolving landscape of web development, bridging the gap between backend command-line interfaces (CLI) and frontend web applications presents exciting opportunities. Whether you're aiming to provide remote terminal access, create web-based dashboards for your CLI tools, or design interactive tutorials, integrating a command-line interface with a web front-end can significantly enhance user experience and accessibility. In this post, we'll explore how to build an interactive web-based terminal using Node.js, WebSockets, and xterm.js—all encapsulated within a single `demo.js` file for simplicity.  
    
